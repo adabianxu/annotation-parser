@@ -1,0 +1,634 @@
+{
+    "bagId": "69ae700383f2493f72e8fde1",
+    "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+    "frames": [
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430899.97466/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430899.97466_group_priority-G1-G5-G4.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430899.97466/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430899.97466_group_priority-G1-G5-G4.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdc9",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430899.97466_group_priority-G1-G5-G4"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430900.975565/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430900.975565_group_priority-G1-G5-G4.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430900.975565/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430900.975565_group_priority-G1-G5-G4.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdca",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430900.975565_group_priority-G1-G5-G4"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430901.976472/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430901.976472_group_priority-G1-G4-G5.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430901.976472/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430901.976472_group_priority-G1-G4-G5.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdcb",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430901.976472_group_priority-G1-G4-G5"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430902.977515/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430902.977515_group_priority-G1-G4-G5.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430902.977515/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430902.977515_group_priority-G1-G4-G5.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdcc",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430902.977515_group_priority-G1-G4-G5"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430903.978445/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430903.978445_group_priority-G1-G4-G5.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430903.978445/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430903.978445_group_priority-G1-G4-G5.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdcd",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430903.978445_group_priority-G1-G4-G5"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430904.979488/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430904.979488_group_priority-G2-G3-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430904.979488/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430904.979488_group_priority-G2-G3-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdce",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430904.979488_group_priority-G2-G3-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430905.980532/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430905.980532_group_priority-G2-G6-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430905.980532/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430905.980532_group_priority-G2-G6-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdcf",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430905.980532_group_priority-G2-G6-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430906.981462/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430906.981462_group_priority-G2-G3-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430906.981462/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430906.981462_group_priority-G2-G3-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd0",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430906.981462_group_priority-G2-G3-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430907.9825048/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430907.9825048_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430907.9825048/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430907.9825048_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd1",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430907.9825048_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430908.983436/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430908.983436_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430908.983436/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430908.983436_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd2",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430908.983436_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430909.98448/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430909.98448_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430909.98448/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430909.98448_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd3",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430909.98448_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430910.985409/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430910.985409_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430910.985409/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430910.985409_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd4",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430910.985409_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430911.986453/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430911.986453_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430911.986453/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430911.986453_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd5",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430911.986453_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430912.987383/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430912.987383_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430912.987383/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430912.987383_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd6",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430912.987383_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430913.988427/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430913.988427_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430913.988427/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430913.988427_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd7",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430913.988427_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430914.98947/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430914.98947_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430914.98947/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430914.98947_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd8",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430914.98947_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430915.990401/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430915.990401_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430915.990401/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430915.990401_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdd9",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430915.990401_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430916.991444/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430916.991444_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430916.991444/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430916.991444_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdda",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430916.991444_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430917.992373/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430917.992373_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430917.992373/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430917.992373_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fddb",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430917.992373_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430918.993418/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430918.993418_group_priority-G7-G9-G4-G5.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430918.993418/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430918.993418_group_priority-G7-G9-G4-G5.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fddc",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430918.993418_group_priority-G7-G9-G4-G5"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430919.994348/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430919.994348_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430919.994348/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430919.994348_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fddd",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430919.994348_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430920.995392/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430920.995392_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430920.995392/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430920.995392_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fdde",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430920.995392_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430921.996435/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430921.996435_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430921.996435/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430921.996435_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fddf",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430921.996435_group_priority-G2-G1"
+        },
+        {
+            "annoIssues": [],
+            "bagId": "69ae700383f2493f72e8fde1",
+            "clipId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772714052",
+            "currentBagTags": {
+                "type": "nonexistent"
+            },
+            "currentFrameIssueTags": {},
+            "currentFrameTags": {},
+            "devices": [
+                {
+                    "mime": "image/jpeg",
+                    "prod_url": "huaicos:ad-cn-hlidc-multimodal/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430922.997365/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430922.997365_group_priority-G2-G1.jpg",
+                    "raw_url": "https://niofs-huailai.nioext.com/ad-cn-hlidc-sentinel-labelling/d0be2e9e-e4ac-48d1-971b-c4e1e832c918/joeden.zhuang/vlm_road_graph/vla_cuted_roads_qa_202603052031/06bc9a0d-d9c5-400c-b007-9e46f21a28cd/1772430922.997365/06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430922.997365_group_priority-G2-G1.jpg",
+                    "source": "CAMERA"
+                }
+            ],
+            "isHardcase": false,
+            "isSkip": true,
+            "merge_data_uuid": "69ae700383f2493f72e8fde0",
+            "objects": [],
+            "projectId": "1850163609000032",
+            "raw": {},
+            "rawClipId": "",
+            "rawFrameId": "06bc9a0d-d9c5-400c-b007-9e46f21a28cd_1772430922.997365_group_priority-G2-G1"
+        }
+    ],
+    "labelRule": "{\"validateRules\":{\"checkSkipFrameMustBeEmtpy\":\"none\",\"checkFrameContent\":\"error\",\"checkRefineDataMustBeChecked\":\"none\",\"checkEntityContent\":\"none\",\"checkDeviceNotEmpty\":\"none\",\"checkObjectTags\":\"none\",\"checkTargetIdNotEmpty\":\"none\",\"checkFrameTagMustBeChecked\":\"none\",\"group_has_routing\":\"none\",\"checkTrackId\":\"none\"},\"asyncCheckRules\":[{\"key\":\"intersection_2d_group\",\"title\":\"路口分组检查\",\"isCustomRule\":true,\"drawType\":\"offsetline\",\"isAsync\":true},{\"key\":\"intersection_2d_access_point\",\"title\":\"路口出入点检查\",\"isCustomRule\":true,\"drawType\":\"offsetline\",\"isAsync\":true},{\"key\":\"group_has_routing\",\"title\":\"分组一一对应关联框\",\"isAsync\":true}],\"ruleKey\":\"rules/prod/VLA_评测断头路_v1.0.json\"}",
+    "packageId": "7e168e7e633ef494b9433f7c0d90a2495",
+    "projectId": "1850163609000032",
+    "rawClipId": ""
+}
